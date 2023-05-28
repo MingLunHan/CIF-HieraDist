@@ -25,7 +25,7 @@ This repository is the official implementation for the hierarchical knowledge di
 
 ## Acknowledgments
 
-This repository is developed based on [Fairseq](https://github.com/facebookresearch/fairseq). Thanks to Facebook AI Research for releasing the Fairseq framework.
+This repository is developed based on [Fairseq](https://github.com/facebookresearch/fairseq). Thanks to the [Facebook AI Research](https://ai.facebook.com/) for releasing the Fairseq framework.
 
 ## Citation
 
