@@ -11,6 +11,7 @@ This repository is the official implementation for the hierarchical knowledge di
 2. Train a CIF-based ASR model with acoustic contrastive distillation (ACD);
 3. Train a CIF-based ASR model with linguistic regression distillation (LRD);
 4. Train a CIF-based ASR model with hierarchical knowledge distillation (HieraDist/HKD).
+5. Conduct model inference.  
 
 ## Usage
 
