@@ -41,6 +41,16 @@ The development of this repository is based on the [Fairseq](https://github.com/
 
 This repository is developed based on [Fairseq](https://github.com/facebookresearch/fairseq). Thanks to the [Facebook AI Research](https://ai.facebook.com/) for releasing the Fairseq framework.
 
+## Other Resources
+
+- The first work to connect speech and LLM (Large Language Model, such as ChatGLM, LLaMA, BLOOM) with an all-neural inferface in an all-neural way: https://github.com/phellonchen/X-LLM & https://github.com/MingLunHan/X-LLM-Speech
+
+- A PyTorch implementation of a independent CIF module: https://github.com/MingLunHan/CIF-PyTorch
+
+- CIF-based Contextualization, Collaborative Decoding (ColDec): https://github.com/MingLunHan/CIF-ColDec
+
+- CIF as a bridge to connect pre-trained acoustic models and pre-trained language models: https://github.com/aispeech-lab/w2v-cif-bert
+
 ## Citation
 
 If you are inspired by this paper, or use the core codes from this repository for your development, or conduct research related to it, please cite this paper with the following bibtex format:
