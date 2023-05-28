@@ -25,14 +25,14 @@ This repository is the official implementation for the hierarchical knowledge di
 
 ## Acknowledgments
 
-This repository is developed based on Fairseq framework. Thanks to Facebook AI for releasing the codes of the Fairseq framework.
+This repository is developed based on [Fairseq](https://github.com/facebookresearch/fairseq). Thanks to Facebook AI Research for releasing the Fairseq framework.
 
 ## Citation
 
 If you are inspired by this paper, use the core code of this repository, or conduct research related to it, please cite this paper with the following format:
 
 ```
-@INPROCEEDINGS{futami2020distilling,
+@INPROCEEDINGS{han2023hieradist,
   author    = {Han Minglun and Chen, Feilong and Shi, Jing and Xu, Shuang and Xu, Bo},
   title     = {Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation},
   booktitle = {{INTERSPEECH}},
