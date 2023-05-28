@@ -29,7 +29,7 @@ This repository is developed based on [Fairseq](https://github.com/facebookresea
 
 ## Citation
 
-If you are inspired by this paper, use the core code of this repository, or conduct research related to it, please cite this paper with the following format:
+If you are inspired by this paper, or use the core codes from this repository for your development, or conduct research related to it, please cite this paper with the following bibtex format:
 
 ```
 @INPROCEEDINGS{han2023hieradist,
@@ -39,3 +39,5 @@ If you are inspired by this paper, use the core code of this repository, or cond
   year      = {2023}
 }
 ```
+
+Thanks!
