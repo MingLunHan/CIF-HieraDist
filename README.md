@@ -33,18 +33,9 @@ If you are inspired by this paper, use the core code of this repository, or cond
 
 ```
 @INPROCEEDINGS{han2023hieradist,
-  author    = {Han Minglun and Chen, Feilong and Shi, Jing and Xu, Shuang and Xu, Bo},
+  author    = {Han, Minglun and Chen, Feilong and Shi, Jing and Xu, Shuang and Xu, Bo},
   title     = {Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation},
   booktitle = {{INTERSPEECH}},
   year      = {2023}
 }
 ```
-
-
-
-
-
-
-
-
-
