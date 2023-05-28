@@ -3,7 +3,7 @@
 ## Introduction
 [INTERSPEECH 2023] Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation 
 
-This repository is the official implementation for the hierarchical knowledge distillation (HieraDist) developed for CIF-based models. Please refer to the original paper for details: [Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation](https://arxiv.org/abs/2301.13003). 
+This repository is the official implementation for the hierarchical knowledge distillation (HieraDist) developed for CIF-based models. Please refer to the original paper for more details: [Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation](https://arxiv.org/abs/2301.13003). 
 
 ## What can you do with this repository?
 
