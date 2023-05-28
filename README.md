@@ -17,7 +17,21 @@ This repository is the official implementation for the hierarchical knowledge di
 
 ### Installation
 
+My default python version:
+```
+python==3.7.9
+```
+
+You should install all dependecies with following commands:
+```
+cd CIF-HieraDist
+pip install -r requirements.txt
+pip install -e ./
+```
+
 ### Data preparation
+
+The development of this repository is based on the [Fairseq](https://github.com/facebookresearch/fairseq). Please refer to the original data preparation of [speech-to-text](https://github.com/facebookresearch/fairseq/tree/main/examples/speech_to_text) in Fairseq. You can also refer to the https://github.com/MingLunHan/CIF-HieraDist/blob/main/examples/speech_to_text/prep_aishell1_data.py and modify it for your datasets.
 
 ### Model Training
 
