@@ -39,7 +39,7 @@ The development of this repository is based on the [Fairseq](https://github.com/
 
 ## Acknowledgments
 
-This repository is developed based on [Fairseq](https://github.com/facebookresearch/fairseq). Thanks to the [Facebook AI Research](https://ai.facebook.com/) for releasing the Fairseq framework.
+This repository is developed on [Fairseq](https://github.com/facebookresearch/fairseq). Thanks to the [Facebook AI Research](https://ai.facebook.com/) for releasing the Fairseq framework.
 
 ## Other Resources
 
