@@ -82,7 +82,7 @@ When not using any extra language models, we can get the results in the followin
 | CIF + LRD | 4.0 | 4.5 |
 | CIF + HieraDist | 3.8 | **4.2 (4.1 with better decoding hyper-parameters in later experiments)** |
 
-With language model trained with the text of AISHELL-1 itself, we can get 
+With language model trained with the text of AISHELL-1 itself, we can get:
 
 | Methods | dev (CER \%) | test (CER \%) |
 | --- | --- | --- |
