@@ -60,7 +60,7 @@ We provide the original training logs in [egs/aishell1](https://github.com/MingL
 
 ### Model Inference
 
-To conduct the inference for a ASR model, you should use the command:
+To conduct the inference for an ASR model, you should use the command:
 ```
 bash run_infer.sh
 ```
