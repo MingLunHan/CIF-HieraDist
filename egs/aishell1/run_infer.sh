@@ -23,7 +23,7 @@ stage=1
 # Average checkpoints
 if [ ${stage} -le 0 ]; then
   python ${FAIRSEQ_ROOT}/scripts/average_checkpoints.py --inputs ${SAVE_DIR} \
-    --num-epoch-checkpoints 20 \
+    --num-epoch-checkpoints 10 \
     --output "${SAVE_DIR}/${CHECKPOINT_FILENAME}"
 fi
 
