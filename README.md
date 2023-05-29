@@ -71,6 +71,16 @@ bash run_infer.sh
 
 We provide the original inference logs in [egs/aishell1](https://github.com/MingLunHan/CIF-HieraDist/tree/main/egs/aishell1) for comparison. 
 
+## Key Results
+
+When not using any extra language models, we can get the results in the following table:
+
+| Methods | dev (CER \%) | test (CER \%) |
+| --- | --- | --- |
+| CIF | 4.5 | 4.9 |
+| CIF + ACD | 4.2 | 4.7 |
+| CIF + LRD | 4.0 | 4.5 |
+| CIF + HieraDist | 3.8 | **4.2 (4.1 with better decoding hyper-parameters in later experiments)** |
 
 ## Acknowledgments
 
