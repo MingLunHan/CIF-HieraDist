@@ -29,13 +29,39 @@ pip install -r requirements.txt
 pip install -e ./
 ```
 
+Let's take the AISHELL-1 dataset as an example and navigate to the corresponding working directory for this dataset:
+```
+cd egs/aishell1
+```
+
 ### Data preparation
 
 The development of this repository is based on the [Fairseq](https://github.com/facebookresearch/fairseq). Please refer to the original data preparation of [speech-to-text](https://github.com/facebookresearch/fairseq/tree/main/examples/speech_to_text) in Fairseq. You can also refer to the https://github.com/MingLunHan/CIF-HieraDist/blob/main/examples/speech_to_text/prep_aishell1_data.py and modify it for your datasets.
 
+```
+python ../../examples/speech_to_text/prep_aishell1_data.py --input-root ${YOUR_PATH_TO_AISHELL1} --output-root ./data/
+```
+
+Note that YOUR_PATH_TO_AISHELL1 is the parent directory of the AISHELL-1 dataset. 
+
 ### Model Training
 
+To train a standard CIF-based ASR model, you should use the command:
+```
+bash run_train_aishell1_cif_small_exp35_14.sh
+```
+
+To train a CIF-based ASR model with HieraDist/HKD, you should use the command:
+```
+bash run_train_bert_distilled_cif_exp4_decdistill0p01_noscale_finalstate_contrastiveloss1p0_conttemp0p02_rmvrpt_neg700.sh
+```
+
 ### Model Inference
+
+To conduct the inference for a ASR model, you should use the command:
+```
+bash run_infer.sh
+```
 
 ## Acknowledgments
 
