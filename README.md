@@ -56,12 +56,17 @@ To train a CIF-based ASR model with HieraDist/HKD, you should use the command:
 bash run_train_bert_distilled_cif_exp4_decdistill0p01_noscale_finalstate_contrastiveloss1p0_conttemp0p02_rmvrpt_neg700.sh
 ```
 
+We provide the original training logs for comparison in [egs/aishell1](https://github.com/MingLunHan/CIF-HieraDist/tree/main/egs/aishell1). 
+
 ### Model Inference
 
 To conduct the inference for a ASR model, you should use the command:
 ```
 bash run_infer.sh
 ```
+
+We provide the original inference logs for comparison in [egs/aishell1](https://github.com/MingLunHan/CIF-HieraDist/tree/main/egs/aishell1). 
+
 
 ## Acknowledgments
 
