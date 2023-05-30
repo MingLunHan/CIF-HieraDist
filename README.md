@@ -51,11 +51,11 @@ To train a standard CIF-based ASR model, you should use the command:
 bash run_train_aishell1_cif_small_exp35_14.sh
 ```
 
-To train a CIF-based ASR model with HieraDist/HKD, you should first extract features from BERT with the following command:
+To train a CIF-based ASR model with HieraDist/HKD, you should first extract features from PLM with the following command:
 ```
 bash run_extract_plm_feats.sh
 ```
-Then, you should use the command:
+The output json file of PLM features should be set in the configuration file in egs/aishell1/data. Then, you should use the command:
 ```
 bash run_train_bert_distilled_cif_exp4_decdistill0p01_noscale_finalstate_contrastiveloss1p0_conttemp0p02_rmvrpt_neg700.sh
 ```
