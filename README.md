@@ -97,7 +97,7 @@ This repository is developed on [Fairseq](https://github.com/facebookresearch/fa
 
 ## Other Resources
 
-- A work that connects speech and LLM (Large Language Model, such as ChatGLM, LLaMA, BLOOM) with an all-neural inferface in an all-neural way: https://github.com/phellonchen/X-LLM & https://github.com/MingLunHan/X-LLM-Speech
+- A work that connects speech and LLM (ChatGLM) with an all-neural inferface in an all-neural way: https://github.com/phellonchen/X-LLM & https://github.com/MingLunHan/X-LLM-Speech
 
 - A PyTorch implementation of the independent CIF module: https://github.com/MingLunHan/CIF-PyTorch
 
