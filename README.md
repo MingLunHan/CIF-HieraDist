@@ -34,7 +34,7 @@ Let's take the AISHELL-1 dataset as an example and navigate to the corresponding
 cd egs/aishell1
 ```
 
-### Data preparation
+### Data Preparation
 
 The development of this repository is based on the [Fairseq](https://github.com/facebookresearch/fairseq). Please refer to the original data preparation of [speech-to-text](https://github.com/facebookresearch/fairseq/tree/main/examples/speech_to_text) in Fairseq. You can also refer to the https://github.com/MingLunHan/CIF-HieraDist/blob/main/examples/speech_to_text/prep_aishell1_data.py and modify it for your datasets.
 
