@@ -93,7 +93,7 @@ With the language model trained with the text of AISHELL-1 itself, we can get:
 
 ## Acknowledgments
 
-This repository is developed on [Fairseq](https://github.com/facebookresearch/fairseq). Thanks to the [Facebook AI Research](https://ai.facebook.com/) for releasing the Fairseq framework.
+This repository is developed on [Fairseq](https://github.com/facebookresearch/fairseq). Thanks to the [Facebook Artificial Intelligence Research (FAIR)](https://ai.facebook.com/) for releasing the Fairseq framework.
 
 ## Other Resources
 
