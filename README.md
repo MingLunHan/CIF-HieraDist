@@ -5,7 +5,7 @@
 
 🚀🚀 This repository is the official implementation for the hierarchical knowledge distillation (HieraDist) developed for the continuous integrate-and-fire (CIF) based ASR models. 
 
-We propose the hierarchical knowledge distillation (HKD or HieraDist) to transfer the knowledge from PLMs to the ASR models. HieraDist employs cross-modal knowledge distillation with contrastive loss at the acoustic level and knowledge distillation with regression loss at the linguistic level. 
+We propose the hierarchical knowledge distillation (HKD or HieraDist) to transfer the knowledge from the pre-trained language models (PLMs) to the ASR models. HieraDist employs cross-modal knowledge distillation with token-level contrastive loss at the acoustic level and knowledge distillation with regression loss at the linguistic level. 
 
 <div align="center">
   <img src="HieraDist.png" alt="Alt Text" />
