@@ -7,7 +7,7 @@
 
 We propose the hierarchical knowledge distillation (HKD or HieraDist) to transfer the knowledge from PLMs to the ASR models. HieraDist employs cross-modal knowledge distillation with contrastive loss at the acoustic level and knowledge distillation with regression loss at the linguistic level. 
 
-![HieraDist](images/HieraDist.png)
+![HieraDist](HieraDist.png)
 
 Please refer to the original paper for more details: [Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation](https://arxiv.org/abs/2301.13003). 
 
