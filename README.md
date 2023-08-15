@@ -118,11 +118,13 @@ This repository is developed on [Fairseq](https://github.com/facebookresearch/fa
 If you are inspired by this paper, or use the core codes from this repository for your development, or conduct research related to it, please cite this paper with the following bibtex format:
 
 ```
-@INPROCEEDINGS{han2023hieradist,
-  author    = {Han, Minglun and Chen, Feilong and Shi, Jing and Xu, Shuang and Xu, Bo},
-  title     = {Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation},
-  booktitle = {{INTERSPEECH}},
-  year      = {2023}
+@inproceedings{han23_interspeech,
+  author={Minglun Han and Feilong Chen and Jing Shi and Shuang Xu and Bo Xu},
+  title={{Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={1364--1368},
+  doi={10.21437/Interspeech.2023-423}
 }
 ```
 
