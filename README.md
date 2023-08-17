@@ -105,7 +105,7 @@ This repository is developed on [Fairseq](https://github.com/facebookresearch/fa
 
 ## Other Resources
 
-- The first work that connects speech module and LLM (ChatGLM) with the all-neural inferface: https://github.com/phellonchen/X-LLM & https://github.com/MingLunHan/X-LLM-Speech
+- The first open-source Chinese Multimodal Large Language Model (MLLM) & The first work that connects speech module and LLM (ChatGLM) in a unified neural network: https://github.com/phellonchen/X-LLM & https://github.com/MingLunHan/X-LLM-Speech
 
 - A PyTorch implementation of the independent CIF module: https://github.com/MingLunHan/CIF-PyTorch
 
