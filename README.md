@@ -11,7 +11,7 @@ We propose the hierarchical knowledge distillation (HKD or HieraDist) to transfe
   <img src="HieraDist.png" alt="Alt Text" />
 </div>
 
-Please refer to the original paper for more details: [Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation](https://arxiv.org/abs/2301.13003). 
+Please refer to the original paper for more details: [Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation](https://www.isca-speech.org/archive/interspeech_2023/han23_interspeech.html). 
 
 ## What can you do with this repository?
 
